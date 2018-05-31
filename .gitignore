@@ -34,3 +34,6 @@ download/
 upload/
 dev/
 cache/
+themes/package-lock.json
+admintek/themes/default/package-lock.json
+admintek/themes/new-theme/package-lock.json
