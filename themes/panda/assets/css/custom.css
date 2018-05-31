@@ -1,0 +1,48 @@
+/*
+ * Custom code goes here.
+ * A template should always ship with an empty custom.css
+ */
+
+/* SOMBRAS PARA LOS TEXTOS BLANCOS */
+.swipershadow {
+    text-shadow: black 0.1em 0.1em 0.2em
+}
+
+
+/* CENTRAMOS  EL TITULO DE PRODUCTOS NUEVOS*/
+.products_slider  .title_block.flex_container.title_align_0.title_style_0{
+    margin: auto;
+    width: 300px;
+}
+
+#easycontent_container_391, #easycontent_container_391 .container-fluid{
+    padding-left: 0px!important;
+    padding-right: 0px!important;
+}
+
+#footer-secondary, #easycontent_container_391, #swiper_container_out_12 {
+    padding-bottom: 0px!important;
+    padding-top: 0px!important;
+    margin-bottom: 0px!important;
+    margin-top: 0px!important;
+}
+
+.footerbox {
+    background-color: #377fd885; 
+    padding: 32px; 
+    box-shadow: 15px 20px #88888885;
+    width: 100%;
+}
+
+#easycontent_container_407 {
+    background-image: url(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/G1y8L3a/businessman-working-with-laptop-smartphone-and-tablet-in-office_4uutjotnl__F0000.png);
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 64px!important;
+}
+
+#easycontent_container_407 .container {
+    margin: 0px!important;
+    padding: 16px!important;
+    background-color: #c2e2ef90;
+}
