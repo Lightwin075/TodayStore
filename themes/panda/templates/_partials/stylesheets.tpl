@@ -33,8 +33,6 @@
 {/foreach}
 
 
-{if isset($sttheme.custom_css) && count($sttheme.custom_css)}
   {foreach $sttheme.custom_css as $css_uri}
   <link href="{$css_uri}" rel="stylesheet" type="text/css" media="{$sttheme.custom_css_media}" />
   {/foreach}
-{/if}
