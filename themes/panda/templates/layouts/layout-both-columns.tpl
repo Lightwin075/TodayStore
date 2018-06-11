@@ -15,7 +15,7 @@
     <div class="loader-box">
         <div class="loader">
             <div class="element-animation">
-                <img src="img/preloader_icons.png" width="480" height="100" style="max-width: none; z-index: 999999999;">
+                <img src="img/preloader_icons.png" width="480" height="100" style="max-width: none; z-index: 999999999;margin-top: -15px;height: 120px;width: 580px;">
             </div>
         </div>
         <ul class="labels">

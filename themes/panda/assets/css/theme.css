@@ -12499,7 +12499,7 @@ body#index .transparent-header.header-container, body#index .transparent-mobile-
 .stmenu_multi_level li {
   position: relative;
   display: block;
-  width: 250px; }
+  width: 150px; }
   .stmenu_multi_level li:hover > a .is_parent_icon_v {
     display: none; }
   .stmenu_multi_level li:hover > ul {
